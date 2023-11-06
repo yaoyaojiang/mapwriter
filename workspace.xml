@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mapreader:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9142a638-6e7a-4aac-a07d-e50e56f42c4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2ESxX6a9g5tz97apqBm0QTDdbWA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="303" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.55287355" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\mapreader\src\com\map" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\mapreader\out\production\mapreader\com" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Base">
+    <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.map.Base" />
+      <module name="mapreader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomStringGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.map.RandomStringGenerator" />
+      <module name="mapreader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomTerrain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.map.RandomTerrain" />
+      <module name="mapreader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Randomtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.map.Randomtest" />
+      <module name="mapreader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.map.test" />
+      <module name="mapreader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Base" />
+        <item itemvalue="Application.RandomTerrain" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.RandomStringGenerator" />
+        <item itemvalue="Application.Randomtest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9142a638-6e7a-4aac-a07d-e50e56f42c4f" name="Default Changelist" comment="" />
+      <created>1662602825042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662602825042</updated>
+      <workItem from="1662602826217" duration="15285000" />
+      <workItem from="1662645137362" duration="1359000" />
+      <workItem from="1662647369420" duration="2177000" />
+      <workItem from="1662732291159" duration="2601000" />
+      <workItem from="1662776496549" duration="25832000" />
+      <workItem from="1663806358613" duration="15720000" />
+      <workItem from="1663894209513" duration="11873000" />
+      <workItem from="1663978228207" duration="5274000" />
+      <workItem from="1668754909634" duration="40000" />
+      <workItem from="1668754973456" duration="9409000" />
+      <workItem from="1671754923199" duration="19000" />
+      <workItem from="1671754963768" duration="18727000" />
+      <workItem from="1672013356001" duration="2000000" />
+      <workItem from="1672107084316" duration="4490000" />
+      <workItem from="1672146910338" duration="5645000" />
+      <workItem from="1672153360089" duration="1861000" />
+      <workItem from="1672185707279" duration="19933000" />
+      <workItem from="1672274475565" duration="11071000" />
+      <workItem from="1672319843409" duration="222000" />
+      <workItem from="1672400409415" duration="5151000" />
+      <workItem from="1672473468255" duration="676000" />
+      <workItem from="1672584983931" duration="68000" />
+      <workItem from="1672662692222" duration="2301000" />
+      <workItem from="1679295485621" duration="1898000" />
+      <workItem from="1679297773392" duration="22000" />
+      <workItem from="1685062776852" duration="12091000" />
+      <workItem from="1685324873823" duration="14527000" />
+      <workItem from="1685440767322" duration="480000" />
+      <workItem from="1686017877449" duration="1780000" />
+      <workItem from="1686791944620" duration="4714000" />
+      <workItem from="1686885766627" duration="27000" />
+      <workItem from="1686885813686" duration="3744000" />
+      <workItem from="1687156853788" duration="821000" />
+      <workItem from="1687683540698" duration="724000" />
+      <workItem from="1687912841885" duration="1288000" />
+      <workItem from="1689751307830" duration="6733000" />
+      <workItem from="1689816799477" duration="10760000" />
+      <workItem from="1690250488880" duration="840000" />
+      <workItem from="1691463653483" duration="11329000" />
+      <workItem from="1691974235166" duration="12000" />
+      <workItem from="1691974269665" duration="3269000" />
+      <workItem from="1692146744338" duration="8193000" />
+      <workItem from="1692585708906" duration="2087000" />
+      <workItem from="1692670311579" duration="642000" />
+      <workItem from="1693786071126" duration="4315000" />
+      <workItem from="1694051766066" duration="19000" />
+      <workItem from="1694051808149" duration="12747000" />
+      <workItem from="1694131232836" duration="1140000" />
+      <workItem from="1694422189278" duration="1190000" />
+      <workItem from="1694569122136" duration="5539000" />
+      <workItem from="1694741873075" duration="593000" />
+      <workItem from="1694997616883" duration="3167000" />
+      <workItem from="1696816986900" duration="71000" />
+      <workItem from="1696817082741" duration="4093000" />
+      <workItem from="1697070990067" duration="3314000" />
+      <workItem from="1697416603690" duration="5503000" />
+      <workItem from="1697503094111" duration="16507000" />
+      <workItem from="1698044059104" duration="625000" />
+      <workItem from="1698128737272" duration="4086000" />
+      <workItem from="1698196668620" duration="4425000" />
+      <workItem from="1698735115374" duration="3272000" />
+      <workItem from="1698889982682" duration="2490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.map" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/LayoutManager.java</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jjj_java$test.ic" NAME="test Coverage Results" MODIFIED="1697071887831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.map.*</FILTER>
+    </SUITE>
+  </component>
+</project>
